@@ -1,0 +1,78 @@
+
+.tab{
+  width:350px;
+  height:500px;
+ 
+}
+.pic{
+  margin-left: 8%;
+  border-radius: 25px;
+  width:90%;
+}
+.row1{
+  width: 150px;
+  height: 200px;
+}
+.logo{
+  margin-left: 28%;
+  width:70%;
+  margin-bottom: 20px;
+  
+}
+.CSEtxt{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 60px;
+  margin-left: 22%;
+  color:red;
+}
+.year{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color:blue;
+  margin-left: 30%;
+}
+.row2{
+  height: 200px;
+}
+.databox{
+  margin-left: 6px;
+  align-content: center;
+  width:300px;
+  height: 150px;
+  border:1.6px solid black;
+  border-radius: 16px;
+  padding: 10px;
+  font-weight: 500;
+  background-color: rgba(128, 128, 128, 0.5);
+}
+.barcode{
+  margin-top:14px;
+  margin-left: 20px;
+  width:72%;
+}
+.sign{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 40px;
+  width:40%;
+
+}
+.signTXT{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 40px;
+}
+.container{
+  width:350px;
+  height:500px;
+  border:6px solid rgb(188, 199, 35);
+  margin-left: 35%;
+  margin-top: 10%;
+  border-radius: 10px;
+  background-image: url(CSE.png);
+
+}
+body{
+  background-color: rgb(20, 20, 44);
+}
